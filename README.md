@@ -1,1 +1,2 @@
-# odin-recipes
+This project is about different recipes. I have just added one for now, but I will add more later. 
+I have used the boiler-plate; the heading, paragraph, anchor, image and ordered and unordered lists elements in this project.
