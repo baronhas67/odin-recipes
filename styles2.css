@@ -1,5 +1,6 @@
 * {
-    margin: 5px
+    margin: 5px;
+    font-family: verdana, Helvetica, sans-serif;
 }
 
 body {
@@ -30,6 +31,7 @@ img {
     text-align: center;
     color: gold;
     background-color: rgba(0, 202, 202, 0);
+    font-family: bookman, didot, serif;
 }
 
 p {
@@ -42,6 +44,7 @@ p {
     color:rgb(0, 20, 1);
     background-color: rgba(0, 225, 255, 0.473);
     width: 170px;
+    font-family:  Century Schoolbook, TeX Gyre Schola, serif;
 }
 
 .credits {
