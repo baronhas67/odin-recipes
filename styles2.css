@@ -43,3 +43,7 @@ p {
     background-color: rgba(0, 225, 255, 0.473);
     width: 170px;
 }
+
+.credits {
+    color: rebeccapurple;
+}
