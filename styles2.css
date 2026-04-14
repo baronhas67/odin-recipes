@@ -1,4 +1,25 @@
 * {
-    width: 400px;
-    margin: 0 auto
+    margin: 5px
 }
+
+body {
+    background-color: rgb(250, 145, 47);
+}
+
+.container {
+    background-color: rgba(33, 33, 0, 1);
+    width: 600px;
+    margin: 0 auto;
+    padding: 30px;
+    color: gold;
+}
+
+h1 {
+    margin: 40px auto;
+    width: 500px;
+    padding: 20px;
+    border: 2px solid black;
+    box-sizing: border-box;
+    text-align: center;
+}
+
