@@ -47,3 +47,12 @@ p {
 .credits {
     color: rebeccapurple;
 }
+
+.link-home {
+    font-size: 2em;
+    font-weight: bold;
+    width: 100px;
+    margin: 30px auto;
+    text-align: center;
+    display: block;
+}
